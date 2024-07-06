@@ -12,7 +12,7 @@ Before starting wireframing, understand how users will interact with your app. C
 Sketch the Core User Flow:
 Visualize the user flow by sketching it out. Explore various design directions. Use paper or digital sketching tools to let your creativity shine. Share these quick concepts with others, gather feedback, and iterate.
 Set a Mobile Frame:
-Start wireframing by defining the mobile frame. Consider the screen size and aspect ratio of the target device (e.g., iPhone, Android). This ensures your wireframes align with the actual screen dimensions.
+Start wireframing by defining the mobile frame. Consider the screen size and aspect ratio of the target device. This ensures your wireframes align with the actual screen dimensions.
 Determine Layout Using Boxes:
 Create wireframe boxes to represent different elements on each screen. These boxes outline where content, buttons, images, and text will go. Focus on layout and structure.
 Use Design Patterns:
@@ -20,7 +20,7 @@ Leverage common design patterns for consistency. For example, navigation bars, b
 Bring in Actual Copy:
 Replace placeholder text with actual content. Use real labels, headings, and descriptions. This helps you visualize how the app will look and feel.
 Ensure Content Scales Well:
-Consider different screen sizes and orientations (portrait vs. landscape). Ensure your wireframes adapt gracefully to various devices.
+Consider different screen sizes and orientations. Ensure your wireframes adapt gracefully to various devices.
 Connect Pages to Create a Flow:
 Link wireframes together to demonstrate user navigation. Show how screens transition from one to another.
 Test Your Design Decisions:
